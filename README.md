@@ -1,58 +1,63 @@
-# LIBRARY MANAGEMENT SYSTEM
+# Hospital Doctor Appointment App User Guide
 
 ## ------- User Guide -------
-Step1: You will need to turn on mysql first through wamp or xamp.
+1.1 Installing the App
+1.2 Creating an Account
 
-Step2:First you need to run the main.py as it is the admin-side software this will automatically create a new database(if already doesn't exist),then run the memmain.py for the student-side software.
-                                                                          Or,
-                                                                          
-Step2(Alternative):Navigate to the "pr exe" folder and run the main.exe first as it is the admin-side software this will automatically create a new database(if already doesn't exist),then run the memmain.exe for the student-side software.
+## ------- App Navigation -------
+1.Home Screen
+2Appointment Calendar
+3.Doctor Profiles
+4.Patient Records
 
-## ------- Software Info -------
-1. Has penalty system(Fine 1 rupees per day) if late for return or renewal
+## ------- Scheduling Appointments -------
+1.Finding Doctors
+2.Booking an Appointment
+3.3 Managing Appointments
+4.Doctor Profiles
 
-## ------- Admin Login Details -------
-1. Username = "admin"
-2. password = 1234
+## ------- Doctor Information ------- 
+1.Viewing Doctor Information
+2.Reviews and Ratings
 
-## ------- Front-End -------
-1. PyQt5 (Python Library)
+## ------- Patient Records -------
+1.Accessing Personal Health Records
+2.Updating Health Information
 
-## ------- Back-End -------
-1. Python
-2. MySQL(Database)
+## ------- Account Management -------
+1.Profile Settings
+2.Changing Password
+3.Log Out
+and reviews.
 
-## ------- Preview -------
-## Admin-Side Software
-### Admin-Login Page
-![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/7de57f95-1ca5-4734-abaa-3974e7d4ef74)
-### Admin-Dashboard
-![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/9dd9ccfb-8f02-4661-8a54-a468da68516e)
-### AddBook
-![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/e1eba972-2bd8-4359-b91b-7951a528c90c)
-### AddStudent
-![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/fcf87c9f-043e-47de-b335-2410f2dfec9b)
-### Delete-Book/Staff/Student
-![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/1b125a94-ab38-4f62-be71-9f95e6159434)
-### Search-Staff/Student
-![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/73cc190c-57cc-4896-a26d-046af9ec60c3)
-### Search-Book
-![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/53ad7ac4-746c-4783-9990-3d5b8a5d4088)
-### Issue-Book
-![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/49561e78-e00f-468f-aed8-82d5850a6dc5)
-### Search/Renew/Return Issued Books
-![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/2fe8b494-0f80-4b5c-a593-c21ad22ee9ee)
-### View Books Issued to Staff/Student
-![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/eadf47bf-b782-4bac-aa09-67b85081b129)
-### View all Students/Staff
-![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/e8dd95b7-d7ac-4e9b-be92-25e932a3bf97)
+### Login Page
+![image]![WhatsApp Image 2023-12-13 at 12 50 07_e6ef187a](https://github.com/Sushanthsush43/Doctor_Appointment_Booking_Android_App/assets/108352561/56d5021d-c5e3-439e-a67f-b45861b14bcf)
+)
+### Registration
+![image](![WhatsApp Image 2023-12-13 at 12 50 08_abcb6783](https://github.com/Sushanthsush43/Doctor_Appointment_Booking_Android_App/assets/108352561/9909d939-5642-48c8-839f-d8716e6ac80c)
+)
+### Home Page
+![image](![WhatsApp Image 2023-12-13 at 12 50 08_95fbd13e](https://github.com/Sushanthsush43/Doctor_Appointment_Booking_Android_App/assets/108352561/812fbfbe-c766-4349-a24e-c3d75c2378b3)
+)
+### Find Doctors
+![image]![WhatsApp Image 2023-12-13 at 12 50 08_6c75f52b](https://github.com/Sushanthsush43/Doctor_Appointment_Booking_Android_App/assets/108352561/d94452cb-eece-43c1-9c63-90a2f0cc8ecd)
+)
+### Doctor Details
+![image](![WhatsApp Image 2023-12-13 at 12 50 08_70f6e563](https://github.com/Sushanthsush43/Doctor_Appointment_Booking_Android_App/assets/108352561/95b6afe7-a978-4b27-88cc-f33334c61723)
+)
+### Fill Details of Booking
+![image](![WhatsApp Image 2023-12-13 at 12 50 07_e3334c76](https://github.com/Sushanthsush43/Doctor_Appointment_Booking_Android_App/assets/108352561/64c33fc5-2e49-4220-abc8-cca12e9d7576)
+)
+### Doctor Appointment Details
+![image](![WhatsApp Image 2023-12-13 at 12 50 07_78482942](https://github.com/Sushanthsush43/Doctor_Appointment_Booking_Android_App/assets/108352561/ff678cd3-d264-434b-b6b4-ed7b1f616222)
+)
+### Lab Test and Packages
+![image](![WhatsApp Image 2023-12-13 at 12 50 06_393a46e9](https://github.com/Sushanthsush43/Doctor_Appointment_Booking_Android_App/assets/108352561/f95efc40-ceb8-412e-8b5e-0bfc899e7394)
+)
+### CheckUp Details
+![image](![WhatsApp Image 2023-12-13 at 12 50 08_a34b8288](https://github.com/Sushanthsush43/Doctor_Appointment_Booking_Android_App/assets/108352561/b2d02b7e-ee07-40d6-9c01-ff80f18b5d8d)
+)
 
-
-## Student/Staff-Side Software
-### Main-Page
-![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/43d23860-a892-4ea6-b068-e412485c7d39)
-### Search-Page
-![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/ea0192cc-4836-4dd2-9915-730d61b0dafc)
 
 
 
