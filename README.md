@@ -1,8 +1,8 @@
 # Hospital Doctor Appointment App User Guide
 
 ## ------- User Guide -------
-1.1 Installing the App
-1.2 Creating an Account
+1.Installing the App
+2.Creating an Account
 
 ## ------- App Navigation -------
 1.Home Screen
@@ -31,7 +31,7 @@
 and reviews.
 
 ### Login Page
-![image]![WhatsApp Image 2023-12-13 at 12 50 07_e6ef187a](https://github.com/Sushanthsush43/Doctor_Appointment_Booking_Android_App/assets/108352561/56d5021d-c5e3-439e-a67f-b45861b14bcf)
+![image](https://github.com/Sushanthsush43/Doctor_Appointment_Booking_Android_App/assets/108352561/56d5021d-c5e3-439e-a67f-b45861b14bcf)
 )
 ### Registration
 ![image](![WhatsApp Image 2023-12-13 at 12 50 08_abcb6783](https://github.com/Sushanthsush43/Doctor_Appointment_Booking_Android_App/assets/108352561/9909d939-5642-48c8-839f-d8716e6ac80c)
