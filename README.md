@@ -1,4 +1,4 @@
-# Hospital Doctor Appointment App User Guide
+# Hospital Doctor Appointment App
 
 ## ------- 1.User Guide -------
 1.Installing the App
